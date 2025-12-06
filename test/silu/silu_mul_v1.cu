@@ -1,8 +1,4 @@
-// silu_and_mul_concat.cu
-// Compatible with sgl_kernel.silu_and_mul
-// input:  [B, 2D]  (first half = x, second half = gate replicated per row)
-// output: [B, D]
-// Computes: out = SiLU(input[:, :D]) * input[:, D:]
+
 
 #include <torch/extension.h>
 #include <ATen/cuda/CUDAContext.h>
