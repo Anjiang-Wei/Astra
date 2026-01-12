@@ -1,5 +1,5 @@
 # Astra: A Multi-Agent System for GPU Kernel Performance Optimization
-[![arXiv](https://img.shields.io/badge/arXiv-2509.21629-b31b1b.svg)](https://www.arxiv.org/abs/2509.21629) [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/license/apache-2-0) 
+[![arXiv](https://img.shields.io/badge/arXiv-2509.21629-b31b1b.svg)](https://arxiv.org/abs/2509.07506) [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/license/apache-2-0) 
 
 ## Usage
 
