@@ -1,4 +1,5 @@
 # Astra: A Multi-Agent System for GPU Kernel Performance Optimization
+[![arXiv](https://img.shields.io/badge/arXiv-2509.21629-b31b1b.svg)](https://www.arxiv.org/abs/2509.21629) [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/license/apache-2-0) 
 
 ## Usage
 
@@ -68,4 +69,19 @@ python3 cuda_kernel_optimizer_multi.py \
 
 Results are saved in a timestamped directory under `cuda_optimization_runs/`.
 
+## Citation
 
+If our research inspires you, please cite our paper:
+
+```bibtex
+@inproceedings{wei2025astra,
+  title={Astra: A Multi-Agent System for GPU Kernel Performance Optimization},
+  author={Wei, Anjiang and Sun, Tianran and Seenichamy, Yogesh and Song, Hang and Ouyang, Anne and Mirhoseini, Azalia and Wang, Ke and Aiken, Alex},
+  booktitle={NeurIPS 2025 Fourth Workshop on Deep Learning for Code},
+  year={2025}
+}
+```
+
+## License
+
+This project is licensed under the [Apache License 2.0](https://opensource.org/license/apache-2-0). 
